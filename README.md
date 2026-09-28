@@ -45,7 +45,7 @@
   
 ---
 
-##  Installation
+## Installation
 
 1. **Clone / Download this repository** to your device:
 ```
