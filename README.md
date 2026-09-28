@@ -41,14 +41,14 @@
 ## System Requirements
 
 - **OS**: Termux (Android) or Linux Distribution (Ubuntu, Debian, Arch, etc.
-- **Dependencies**: `perl`,`cpan`, `python`, `aria2`, `ffmpeg`, `python-yt-dlp`, `yt-dlp-ejs` `(Will be automatically checked & installed by the installer script)`
+- **Dependencies**: `perl`, `python`, `aria2`, `ffmpeg`, `python-yt-dlp`, `yt-dlp-ejs` `(Will be automatically checked & installed by the installer script)`
   
 ---
 
 ##  Installation
 
 1. **Clone / Download this repository** to your device:
-```bash
+```
 git clone https://github.com/iksan757/Vidownload.git
 cd Vidownload/assets/
 
