@@ -13,49 +13,45 @@
     <a href="#-troubleshooting">Troubleshooting</a>
   </p>
 
-
-  ![Bash](https://img.shields.io/badge/Language-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Aria2](https://img.shields.io/badge/Downloader-Aria2c-000000?style=for-the-badge)
   ![yt-dlp](https://img.shields.io/badge/Extractor-yt--dlp-red?style=for-the-badge)
   ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 </div>
 
- <img width="1080" height="1263" alt="52993155b3499b3f381f3edb4f2cdd5b6e87d5d2" src="https://github.com/user-attachments/assets/ed23d5ea-3770-472d-b458-6029b8a4e4db" />
+<img width="1080" height="2400" alt="1001358663" src="https://github.com/user-attachments/assets/8e62e3dc-0e85-4da8-85b0-63dff5605d8d" />
+
+<img width="1080" height="2400" alt="1001358662" src="https://github.com/user-attachments/assets/c783277c-c5ed-40a0-b1fd-c0cbc5edcf5f" />
 
 ---
 
 ## 📌 Description
 
-**Vidownload** (`Video Downloader`) is a bash script to download videos from video stream website pages.
+**Vidownload** (`Video Downloader`) Interactive perl script to to download videos from video stream website pages.
 
 ---
 
 ## ✨ Key Features
 
-- 🚀 **Multi-Threaded Acceleration**: Uses 16 parallel connections via `aria2c` for maximum download speed.
-- 📉 **Quality & Size Options**: Flexible choices for video quality (360p, 480p, 720p, or Best) to save storage space and data.
-- 🎨 **Visual Animation Dashboard**: Features a visual progress bar (`[██████░░░░]`), spinning spinner, real-time speed display, and estimated time (ETA).
-- ⏯️ **Interactive Controls**: Pause/resume functionality during the download process without dropping the connection.
-- 🌐 **Anti-Block & DNS Bypass**: Automatically provides DNS resolvers (Cloudflare `1.1.1.1` / Google `8.8.8.8`) and sends headers (User-Agent & Referer) to avoid server blocking.
-- 📦 **Global Command**: Can be invoked from any directory in the terminal after installation.
-
+- **Multi-Threaded Acceleration**: Uses 16 parallel connections via `aria2c` for maximum download speed.
+- **Quality & Size Options**: Flexible choices for video quality (360p, 480p, 720p, or Best) to save storage space and data.
+- **Anti-Block & DNS Bypass**: Automatically provides DNS resolvers (Cloudflare `1.1.1.1` / Google `8.8.8.8`) and sends headers (User-Agent & Referer) to avoid server blocking.
 ---
 
-## 💻 System Requirements
+## System Requirements
 
-- **OS**: Termux (Android) or Linux Distribution (Ubuntu, Debian, Arch, etc.)
-- **Shell**: `Bash` / `Zsh`
-- **Dependencies**: `python`, `aria2`, `ffmpeg`, `python-yt-dlp`, `yt-dlp-ejs` `(Will be automatically checked & installed by the installer script)`
+- **OS**: Termux (Android) or Linux Distribution (Ubuntu, Debian, Arch, etc.
+- **Dependencies**: `perl`, `python`, `aria2`, `ffmpeg`, `python-yt-dlp`, `yt-dlp-ejs` `(Will be automatically checked & installed by the installer script)`
   
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. **Clone / Download this repository** to your device:
 ```bash
 git clone https://github.com/iksan757/Vidownload.git
 cd Vidownload/assets/
 
-bash install.sh
+perl install.pl
+
 ```
