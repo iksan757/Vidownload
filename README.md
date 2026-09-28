@@ -25,13 +25,13 @@
 
 ---
 
-## 📌 Description
+## Description
 
 **Vidownload** (`Video Downloader`) Interactive perl script to to download videos from video stream website pages.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Multi-Threaded Acceleration**: Uses 16 parallel connections via `aria2c` for maximum download speed.
 - **Quality & Size Options**: Flexible choices for video quality (360p, 480p, 720p, or Best) to save storage space and data.
