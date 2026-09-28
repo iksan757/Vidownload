@@ -41,7 +41,7 @@
 ## System Requirements
 
 - **OS**: Termux (Android) or Linux Distribution (Ubuntu, Debian, Arch, etc.
-- **Dependencies**: `perl`, `python`, `aria2`, `ffmpeg`, `python-yt-dlp`, `yt-dlp-ejs` `(Will be automatically checked & installed by the installer script)`
+- **Dependencies**: `perl`,`cpan`, `python`, `aria2`, `ffmpeg`, `python-yt-dlp`, `yt-dlp-ejs` `(Will be automatically checked & installed by the installer script)`
   
 ---
 
