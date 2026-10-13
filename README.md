@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ VIDOWNLOAD
+#  VIDOWNLOAD
 
   <p align="center">
     <strong>Skrip CLI Video Downloader</strong>
